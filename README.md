@@ -13,7 +13,7 @@ In the vast universe of code, every great adventure starts with a single commit.
 <p align="left">
 <a href="https://linkedin.com/in/aana-goyal-951386324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aana-goyal-951386324" height="30" width="40" /></a>
 <a href="https://instagram.com/goyal_aana_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goyal_aana_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aana goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aana goyal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@aanagoyal1071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aanagoyal1071" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
