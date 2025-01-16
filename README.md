@@ -2,9 +2,7 @@
 Welcome to My First Repository: A Journey Begins
 <br>
 In the vast universe of code, every great adventure starts with a single commit. Today, I embark on a journey of creativity, collaboration, and curiosity, marking the beginning with this humble repository—my-first-repo.
-<h1 align="center">Hi 👋, I'm Aana Goyal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<br>
 - 🌱 I’m currently learning **C++, Web Development, Java**
 
 - 💬 Ask me about **python, html, css, javascript**
@@ -15,7 +13,7 @@ In the vast universe of code, every great adventure starts with a single commit.
 <p align="left">
 <a href="https://linkedin.com/in/aana-goyal-951386324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aana-goyal-951386324" height="30" width="40" /></a>
 <a href="https://instagram.com/goyal_aana_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goyal_aana_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aanagoyal1071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aanagoyal1071" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@aanagoyal1071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aanagoyal1071" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
