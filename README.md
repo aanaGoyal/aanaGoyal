@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi techs 👋
 Welcome to My First Repository: A Journey Begins
 <br>
 In the vast universe of code, every great adventure starts with a single commit. Today, I embark on a journey of creativity, collaboration, and curiosity, marking the beginning with this humble repository—my-first-repo.
