@@ -3,7 +3,7 @@ Welcome to My First Repository: A Journey Begins
 <br>
 In the vast universe of code, every great adventure starts with a single commit. Today, I embark on a journey of creativity, collaboration, and curiosity, marking the beginning with this humble repository—my-first-repo.
 <br>
-- 🌱 I’m currently learning **C++, Web Development, Java**
+- 🌱 I’m currently learning **C++, Web Development, Java, Blockchain**
 
 - 💬 Ask me about **python, html, css, javascript**
 
