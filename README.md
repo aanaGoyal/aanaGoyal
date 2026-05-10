@@ -7,13 +7,13 @@ This repository reflects my journey through coding, problem-solving, and buildin
 
 <br>
 
-* 🌱 I’m currently learning **Machine Learning, Deep Learning, Generative AI, and Advanced DSA in C++**
+* 🌱 I’m currently learning **Machine Learning, Deep Learning, Generative AI, and Advanced DSA in Java**
 
 * 🔭 I’m currently building **AI-powered Flask/Django applications and Machine Learning projects**
 
-* 💡 Interested in **Artificial Intelligence, Full Stack Development, Data Science, and Problem Solving**
+* 💡 Interested in **Artificial Intelligence, Data Analytics, Data Science, and Problem Solving**
 
-* 💬 Ask me about **Python, Flask, Django, Machine Learning, HTML, CSS, JavaScript, SQL, and C++**
+* 💬 Ask me about **Python, Java, Flask, Django, Machine Learning, HTML, CSS, SQL, and C++**
 
 * 📫 How to reach me: **[goyalaana299@gmail.com](mailto:goyalaana299@gmail.com)**
 
