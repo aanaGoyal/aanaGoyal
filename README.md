@@ -1,145 +1,70 @@
-# 👋 Hi, I'm Aana Goyal
+<h1 align="center">Hi there, I'm Aana 👋</h1>
+<h3 align="center">Turning curiosity into code — one project at a time 🚀</h3>
 
-### AI & Machine Learning Enthusiast | Software Developer | Problem Solver
-
-Welcome to my GitHub universe 🚀
-
-I'm a Computer Science student specializing in Artificial Intelligence, passionate about building intelligent systems, solving challenging problems, and continuously learning new technologies.
-
-My primary interests lie in **Machine Learning, Deep Learning, Generative AI, NLP, and Software Development**.
-
----
-
-## 🚀 What I'm Currently Learning
-
-* 🤖 Generative AI & Large Language Models
-* 🧠 Deep Learning & Natural Language Processing
-* 🔎 Retrieval-Augmented Generation (RAG)
-* ⚡ Transformers & Attention Mechanisms
-* 💻 Advanced Data Structures & Algorithms in Java
-* 📊 Data Science & Data Analytics
-* 🌐 Building AI-powered applications with Flask & Django
-
----
-
-## 🧠 Areas of Interest
-
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* Generative AI
-* Large Language Models
-* Natural Language Processing
-* Retrieval-Augmented Generation
-* Computer Vision
-* Data Science & Analytics
-* Data Structures & Algorithms
-* Backend Development
-
----
-
-## 🛠️ Languages & Technologies
-
-### Programming Languages
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Deep+Learning+Enthusiast;Generative+AI+Explorer;Flask+%2F+Django+Developer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
-### Machine Learning & Data Science
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-</p>
-
-### Generative AI & NLP
-
-* Transformers
-* Large Language Models (LLMs)
-* RAG
-* Embeddings
-* Vector Search
-* Attention & Self-Attention
-* Sentence Transformers
-* Multilingual NLP
-
-### Web Development & Backend
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-</p>
-
-### Databases & Tools
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+<p align="center">
+  <a href="https://linkedin.com/in/aana-goyal-951386324" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/goyal_aana_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:goyalaana299@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📚 Current Learning Focus
+### 🌱 About Me
 
-```text
-Machine Learning
-      ↓
-Deep Learning
-      ↓
-Transformers & NLP
-      ↓
-Generative AI & LLMs
-      ↓
-RAG & AI Applications
-```
-
-Alongside AI, I'm strengthening my **Data Structures & Algorithms skills in Java**, focusing on problem-solving patterns and writing efficient solutions.
+- 🔭 Currently building **AI-powered Flask/Django applications** and **Machine Learning projects**
+- 🌱 Currently learning **Machine Learning, Deep Learning, Generative AI, and Advanced DSA in Java**
+- 💡 Interested in **Artificial Intelligence, Data Analytics, Data Science & Problem Solving**
+- 💬 Ask me about **Python, Java, Flask, Django, Machine Learning, SQL, HTML/CSS, C++**
+- 📫 Reach me at **[goyalaana299@gmail.com](mailto:goyalaana299@gmail.com)**
+- ⚡ Fun fact: **Code. Learn. Build. Repeat.**
 
 ---
 
-## 🏆 Achievements
-
-🏅 **Second Runner-Up — TechSprint 2025 Coding Challenge**
-
-🎓 **Computer Science — Artificial Intelligence**
-
-### ☁️ Microsoft Azure Certifications
-
-* Azure AI Fundamentals — AI-900
-* Azure Fundamentals — AZ-900
-* Azure Data Fundamentals — DP-900
-
----
-
-## 🌐 Connect With Me
+### 🛠️ Languages & Tools
 
 <p align="left">
-<a href="https://linkedin.com/in/aana-goyal-951386324" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
-</a>
-&nbsp;
-<a href="mailto:goyalaana299@gmail.com">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Gmail.svg" width="40" height="40"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,flask,django,js,html,css,bootstrap,git,github,mysql,mongodb,vscode" />
 </p>
 
 ---
 
-### 💭
+### 📊 GitHub Stats
 
-> **Learn deeply. Build practically. Solve intelligently.**
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aanaGoyal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanaGoyal&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-Always learning. Always building. Always improving. 🚀
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aanaGoyal&theme=tokyonight&hide_border=true" />
+</p>
 
-**Code. Learn. Build. Repeat.**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aanaGoyal&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aanaGoyal&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aanaGoyal&style=flat-square&color=blue" alt="profile views" />
+</p>
+
+<p align="center">✨ <i>Let's collaborate on exciting ideas and grow together through technology!</i> ✨</p>
