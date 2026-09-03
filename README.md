@@ -1,55 +1,154 @@
-## Hi Techs 👋
+# 👋 Hi, I'm Aana Goyal
 
-# Welcome to My GitHub Universe 🚀
+### AI & Machine Learning Enthusiast | Software Developer | Problem Solver
 
-Every project starts with curiosity, a few lines of code, and the courage to keep learning.
-This repository reflects my journey through coding, problem-solving, and building real-world projects while continuously exploring new technologies. 🌟
+Welcome to my GitHub universe 🚀
 
-<br>
+I'm a Computer Science student specializing in Artificial Intelligence, passionate about building intelligent systems, solving challenging problems, and continuously learning new technologies.
 
-* 🌱 I’m currently learning **Machine Learning, Deep Learning, Generative AI, and Advanced DSA in Java**
+My primary interests lie in **Machine Learning, Deep Learning, Generative AI, NLP, and Software Development**.
 
-* 🔭 I’m currently building **AI-powered Flask/Django applications and Machine Learning projects**
+---
 
-* 💡 Interested in **Artificial Intelligence, Data Analytics, Data Science, and Problem Solving**
+## 🚀 What I'm Currently Learning
 
-* 💬 Ask me about **Python, Java, Flask, Django, Machine Learning, HTML, CSS, SQL, and C++**
+* 🤖 Generative AI & Large Language Models
+* 🧠 Deep Learning & Natural Language Processing
+* 🔎 Retrieval-Augmented Generation (RAG)
+* ⚡ Transformers & Attention Mechanisms
+* 💻 Advanced Data Structures & Algorithms in Java
+* 📊 Data Science & Data Analytics
+* 🌐 Building AI-powered applications with Flask & Django
 
-* 📫 How to reach me: **[goyalaana299@gmail.com](mailto:goyalaana299@gmail.com)**
+---
 
-<br>
+## 🧠 Areas of Interest
 
-<h3 align="left">🌐 Connect with me:</h3>
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Generative AI
+* Large Language Models
+* Natural Language Processing
+* Retrieval-Augmented Generation
+* Computer Vision
+* Data Science & Analytics
+* Data Structures & Algorithms
+* Backend Development
+
+---
+
+## 🛠️ Languages & Technologies
+
+### Programming Languages
 
 <p align="left">
-<a href="https://linkedin.com/in/aana-goyal-951386324" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</p>
 
-<a href="https://instagram.com/goyal_aana_" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+### Machine Learning & Data Science
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+</p>
+
+### Generative AI & NLP
+
+* Transformers
+* Large Language Models (LLMs)
+* RAG
+* Embeddings
+* Vector Search
+* Attention & Self-Attention
+* Sentence Transformers
+* Multilingual NLP
+
+### Web Development & Backend
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+</p>
+
+### Databases & Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📚 Current Learning Focus
+
+```text
+Machine Learning
+      ↓
+Deep Learning
+      ↓
+Transformers & NLP
+      ↓
+Generative AI & LLMs
+      ↓
+RAG & AI Applications
+```
+
+Alongside AI, I'm strengthening my **Data Structures & Algorithms skills in Java**, focusing on problem-solving patterns and writing efficient solutions.
+
+---
+
+## 🏆 Achievements
+
+🏅 **Second Runner-Up — TechSprint 2025 Coding Challenge**
+
+🎓 **Computer Science — Artificial Intelligence**
+
+### ☁️ Microsoft Azure Certifications
+
+* Azure AI Fundamentals — AI-900
+* Azure Fundamentals — AZ-900
+* Azure Data Fundamentals — DP-900
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/aana-goyal-951386324" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+</a>
+&nbsp;
+<a href="mailto:goyalaana299@gmail.com">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Gmail.svg" width="40" height="40"/>
 </a>
 </p>
 
-<br>
+---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+### 💭
 
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-</p>
+> **Learn deeply. Build practically. Solve intelligently.**
 
-<br>
+Always learning. Always building. Always improving. 🚀
 
-✨ *Code. Learn. Build. Repeat.*
-Let’s create innovative solutions, collaborate on exciting ideas, and grow together through technology.
+**Code. Learn. Build. Repeat.**
