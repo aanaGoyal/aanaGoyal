@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Aana Goyal 👋</h1>
-<h3 align="center">AI & Machine Learning Enthusiast | Software Developer | Problem Solver</h3>
+<h3 align="center">Machine Learning & Deep Learning Enthusiast | Generative AI Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A8E8&center=true&vCenter=true&width=650&lines=Machine+Learning+%26+Deep+Learning+Enthusiast;Generative+AI+%26+LLM+Explorer;RAG+%2F+NLP+%2F+Transformers;Flask+%2F+Django+Developer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A8E8&center=true&vCenter=true&width=650&lines=Machine+Learning+%26+Deep+Learning;Generative+AI+%26+Large+Language+Models;NLP+%2F+Transformers+%2F+RAG;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-I'm a Computer Science student specializing in Artificial Intelligence, passionate about building intelligent systems, solving challenging problems, and continuously learning new technologies.
+I'm a Computer Science student specializing in Artificial Intelligence, passionate about building intelligent systems and exploring how machines learn, reason, and generate.
 
 ---
 
@@ -29,19 +29,18 @@ I'm a Computer Science student specializing in Artificial Intelligence, passiona
 - ⚡ Transformers & Attention Mechanisms
 - 💻 Advanced Data Structures & Algorithms in Java
 - 📊 Data Science & Data Analytics
-- 🌐 Building AI-powered applications with Flask & Django
 
 ### 🧠 Areas of Interest
 
-Artificial Intelligence · Machine Learning · Deep Learning · Generative AI · Large Language Models · Natural Language Processing · Retrieval-Augmented Generation · Computer Vision · Data Science & Analytics · Data Structures & Algorithms · Backend Development
+Artificial Intelligence · Machine Learning · Deep Learning · Generative AI · Large Language Models · Natural Language Processing · Retrieval-Augmented Generation · Computer Vision · Data Science & Analytics
 
 ---
 
-### 🛠️ Languages & Technologies
+### 🛠️ Tools & Technologies
 
-**Programming Languages**
+**Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
 </p>
 
 **Machine Learning & Data Science**
@@ -56,16 +55,6 @@ Artificial Intelligence · Machine Learning · Deep Learning · Generative AI ·
 **Generative AI & NLP**
 
 Transformers · Large Language Models (LLMs) · RAG · Embeddings · Vector Search · Attention & Self-Attention · Sentence Transformers · Multilingual NLP
-
-**Web Development & Backend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,django,html,css,bootstrap" />
-</p>
-
-**Databases & Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
-</p>
 
 ---
 
@@ -87,41 +76,6 @@ Alongside AI, I'm strengthening my **Data Structures & Algorithms in Java**, foc
 
 ---
 
-### 🏆 Achievements & Certifications
-
-🏅 **Second Runner-Up** — TechSprint 2025 Coding Challenge
-🎓 **Computer Science** — Artificial Intelligence specialization
-
-**☁️ Microsoft Azure Certifications**
-- Azure AI Fundamentals — AI-900
-- Azure Fundamentals — AZ-900
-- Azure Data Fundamentals — DP-900
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aanaGoyal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanaGoyal&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aanaGoyal&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aanaGoyal&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aanaGoyal&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="left">
@@ -138,11 +92,7 @@ Alongside AI, I'm strengthening my **Data Structures & Algorithms in Java**, foc
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aanaGoyal&style=flat-square&color=blue" alt="profile views" />
-</p>
-
 > **Learn deeply. Build practically. Solve intelligently.**
 
-<p align="center">✨ <i>Always learning. Always building. Always improving. Let's collaborate on exciting ideas!</i> ✨</p>
+<p align="center">✨ <i>Always learning. Always building. Always improving.</i> ✨</p>
 <p align="center"><b>Code. Learn. Build. Repeat.</b></p>
