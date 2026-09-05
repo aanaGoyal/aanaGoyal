@@ -23,12 +23,12 @@ I'm a Computer Science student specializing in Artificial Intelligence, passiona
 
 ### 🚀 What I'm Currently Learning
 
-- 🤖 Generative AI & Large Language Models
-- 🧠 Deep Learning & Natural Language Processing
-- 🔎 Retrieval-Augmented Generation (RAG)
-- ⚡ Transformers & Attention Mechanisms
-- 💻 Advanced Data Structures & Algorithms in Java
-- 📊 Data Science & Data Analytics
+* 🤖 Generative AI & Large Language Models
+* 🧠 Deep Learning & Natural Language Processing
+* 🔎 Retrieval-Augmented Generation (RAG)
+* ⚡ Transformers & Attention Mechanisms
+* 💻 Advanced Data Structures & Algorithms in Java
+* 📊 Data Science & Data Analytics
 
 ### 🧠 Areas of Interest
 
@@ -39,17 +39,15 @@ Artificial Intelligence · Machine Learning · Deep Learning · Generative AI ·
 ### 🛠️ Tools & Technologies
 
 **Languages**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,cpp" />
 </p>
 
 **Machine Learning & Data Science**
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas" />
 </p>
 
 **Generative AI & NLP**
@@ -80,15 +78,15 @@ Alongside AI, I'm strengthening my **Data Structures & Algorithms in Java**, foc
 
 <p align="left">
   <a href="https://linkedin.com/in/aana-goyal-951386324" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://instagram.com/goyal_aana_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:goyalaana299@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Gmail.svg" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
